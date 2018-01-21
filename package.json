@@ -11,6 +11,8 @@
     "node-sass": "^4.5.0"
   },
   "babel": {
-    "presets": ["env"]
+    "presets": [
+      "env"
+    ]
   }
 }
